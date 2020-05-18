@@ -12,7 +12,7 @@ Design and develop a crowdfunding platform with blockchain tech, implement and t
 ## How to use 
 Please follow steps in order. I am using Windows PC, installation and configuration might be different on Mac.
 <ol>
-<li>Download Node.js and npm from [link](https://nodejs.org/en/)
+<li>Download Node.js and npm from [link] (https://nodejs.org/en/)
 <li>Create and Run React project in Command Line 
  ![GitHub Logo](/images/logo.png)
 <li>Use remix to check smart contract solidity code (http://remix.ethereum.org)
